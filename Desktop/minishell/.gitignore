@@ -1,0 +1,5 @@
+*.o
+minishell
+.file_heredoc_*
+*.a
+.vscode
